@@ -1,0 +1,13 @@
+# Backend
+backend/obj/
+backend/.vs/
+backend/**/*.user
+backend/**/bin/
+backend/**/obj/
+# Frontend
+frontend/node_modules/
+
+# Général
+.env
+.env.*
+backend/API/appsettings.Development.json
